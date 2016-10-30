@@ -5,4 +5,4 @@
 
 This repo contains our submissions for the GS Quantify 2016 Contest. We participated and submitted solutions for the ```CS - Job Scheduler``` and ```ML - Bond Liquidity``` problem.
 
-The detailed idea, logic implemented and libraries used is mentioned in the Documentation of the specific problem.
+The detailed idea, logic of implementation and the libraries used are mentioned in the Documentation of the specific problem.
